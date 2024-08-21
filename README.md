@@ -3,7 +3,7 @@
 
 # Scientific Computing with Python by FreeCodeCamp 👨🏻‍💻 
 
-## 1. Cipher Project 🤖🐍
+## 1. Cipher Project 🔑🐍
 
 ### Overview
 
@@ -35,7 +35,27 @@ The Luhn Algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a s
 
 - Implement the Luhn Algorithm to validate credit card numbers and other identification numbers.
 - Develop an understanding of how checksum algorithms work and their application in data validation.
-- Enhance skills in Python programming related to numerical operations and validation techniques. 
+- Enhance skills in Python programming related to numerical operations and validation techniques.
+
+
+# Lambda Functions: Building an Expense Tracker 💸📊
+
+## Overview
+
+In this project, I delved into Python's lambda functions while developing a practical expense tracker application. Lambda functions, also known as anonymous functions, allow for creating concise, inline functions that can simplify coding tasks. By using these functions, I built an application that tracks and categorizes expenses efficiently.💰
+
+## Key Learnings
+
+- **Lambda Functions**: These are small, anonymous functions defined with the `lambda` keyword. They are useful for creating quick, throwaway functions without the need for a full function definition.
+- **Expense Tracking**: Implementing features to record, categorize, and summarize expenses. This involves handling data efficiently and performing operations like sorting and filtering.
+- **Functional Programming Concepts**: Using lambda functions in combination with higher-order functions like `map()`, `filter()`. 📌
+
+## Project Goals
+
+- **Understand Lambda Functions**: Gain a clear understanding of how lambda functions work and how they can be used to make code more concise and readable. 📦
+- **Build an Expense Tracker**: Develop a functional application that allows users to input, categorize, and analyze their expenses effectively.
+- **Apply Functional Programming**: Utilize lambda functions alongside other functional programming technique.
+- **Enhance Python Skills**: Improve proficiency in Python by working with lambda functions and integrating them into a real-world application.🐍
 
 #### Thanks! 😇
 
