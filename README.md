@@ -1,4 +1,3 @@
-
 ---
 
 # Scientific Computing with Python by FreeCodeCamp 👨🏻‍💻 
@@ -37,26 +36,40 @@ The Luhn Algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a s
 - Develop an understanding of how checksum algorithms work and their application in data validation.
 - Enhance skills in Python programming related to numerical operations and validation techniques.
 
+## 3. List Comprehension Project 📝
 
-# Lambda Functions: Building an Expense Tracker 💸📊
+### Overview
 
-## Overview
+This project explores list comprehension in Python, which provides a concise way to construct lists from iterable types like lists, tuples, and strings. The task involves converting strings from Camel Case or Pascal Case to Snake Case using list comprehension.
 
-In this project, I delved into Python's lambda functions while developing a practical expense tracker application. Lambda functions, also known as anonymous functions, allow for creating concise, inline functions that can simplify coding tasks. By using these functions, I built an application that tracks and categorizes expenses efficiently.💰
+### Key Learnings
 
-## Key Learnings
+- **List Comprehension**: A compact way to generate lists by applying an expression to each item in an iterable, eliminating the need for explicit loops or the `.append()` method.
+- **String Manipulation**: Transforming string formats efficiently using Python's powerful list comprehension features.
 
-- **Lambda Functions**: These are small, anonymous functions defined with the `lambda` keyword. They are useful for creating quick, throwaway functions without the need for a full function definition.
-- **Expense Tracking**: Implementing features to record, categorize, and summarize expenses. This involves handling data efficiently and performing operations like sorting and filtering.
-- **Functional Programming Concepts**: Using lambda functions in combination with higher-order functions like `map()`, `filter()`. 📌
+### Project Goals
 
-## Project Goals
+- **Understand List Comprehension**: Learn how to use list comprehension for more concise and readable code.
+- **String Conversion**: Develop a program to convert Camel Case or Pascal Case strings to Snake Case.
+- **Apply Python Techniques**: Use list comprehension to simplify and enhance code functionality.
 
-- **Understand Lambda Functions**: Gain a clear understanding of how lambda functions work and how they can be used to make code more concise and readable. 📦
-- **Build an Expense Tracker**: Develop a functional application that allows users to input, categorize, and analyze their expenses effectively.
-- **Apply Functional Programming**: Utilize lambda functions alongside other functional programming technique.
-- **Enhance Python Skills**: Improve proficiency in Python by working with lambda functions and integrating them into a real-world application.🐍
+## 4. Numerical Methods Project 🔍
+
+### Overview
+
+This project focuses on numerical methods, specifically the bisection method, used to approximate solutions to mathematical problems. The goal is to find the square root of a number by iteratively narrowing down the possible range of values.
+
+### Key Learnings
+
+- **Bisection Method**: A technique for approximating the square root of a number by iteratively dividing the range of possible values.
+- **Numerical Approximation**: Understanding how numerical methods can be used to solve mathematical problems that are difficult to tackle analytically.
+
+### Project Goals
+
+- **Implement the Bisection Method**: Develop a program to approximate square roots using this iterative numerical method.
+- **Explore Numerical Approximation**: Learn how numerical methods can provide practical solutions to complex problems.
+- **Enhance Python Skills**: Apply numerical methods to improve problem-solving abilities in Python.
 
 #### Thanks! 😇
 
---- 
+---
